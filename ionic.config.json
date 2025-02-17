@@ -1,0 +1,7 @@
+{
+  "name": "FileManagerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
